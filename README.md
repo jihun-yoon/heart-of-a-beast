@@ -1,2 +1,2 @@
-# heart-of-a-beast
-Quantitative trading simulation platform for machine learning-based methods
+# ray-trading
+RayTrading is an open-source library for financial trading built on top of Ray that offers both high scalability and a unified API for a variety of applications.
